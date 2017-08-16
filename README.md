@@ -1,4 +1,4 @@
-# Machine-Learning-Talk
+# Introduction to Machine Learning using scikit-learn
 Data for the talk given on topic "Practical Machine Learning" at Don Bosco Institute of Technology
 
 # Instructions to run notebook
